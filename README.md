@@ -39,11 +39,11 @@ Welcome to my GitHub profile! I'm passionate about building real-world projects,
 ## 📊 GitHub Stats
 
 <!-- Replace your_username with your GitHub username -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your_username&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=code-skg&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=code-skg&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🔥 GitHub Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=your_username&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=code-skg&theme=tokyonight)](https://git.io/streak-stats)
