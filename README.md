@@ -54,6 +54,13 @@ Welcome to my GitHub space! I'm an engineering student at NIT Bhopal, passionate
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=code-skg&theme=highcontrast&background=0D1117&border=30363D)
 
+## 🔥 GitHub Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=code-skg&theme=tokyonight)](https://git.io/streak-stats)
+
+
+
+
 ## 🏆 Achievements & Goals
 
 - ✅ Completed beginner projects: Weather App, Portfolio, Fitness App (Fitify), Landing Page (Finit)
