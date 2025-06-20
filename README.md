@@ -4,7 +4,7 @@
 🚀 Aspiring Software Engineer | 💻 Full-Stack Developer in Progress | 🧠 Tech Explorer
 
 Welcome to my GitHub space! I'm an engineering student at NIT Bhopal, passionate about solving real-world problems with code, building meaningful projects, and contributing to the open-source world.
->I believe in continuous learning, creative thinking, and community-driven development.
+I believe in continuous learning, creative thinking, and community-driven development.
 
 ---
 
@@ -52,7 +52,7 @@ Welcome to my GitHub space! I'm an engineering student at NIT Bhopal, passionate
 
 ## 🔥 GitHub Streak
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=code-skg&theme=highcontrast&border_radius=5&mode=weekly)](https://github-readme-streak-stats.herokuapp.com)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=code-skg&theme=highcontrast&background=0D1117&border=30363D)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 ## 🏆 Achievements & Goals
 
