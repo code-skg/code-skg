@@ -56,9 +56,7 @@ Welcome to my GitHub space! I'm an engineering student at NIT Bhopal, passionate
 
 ## 🔥 GitHub Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=code-skg&theme=tokyonight)](https://git.io/streak-stats)
-
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=code-skg&theme=highcontrast&background=0D1117&border=30363D)](https://github.com/code-skg)
 
 
 ## 🏆 Achievements & Goals
