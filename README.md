@@ -1,5 +1,3 @@
-<!-- Profile README Template -->
-
 # 👋 Hi, I'm Satyam!
 
 🚀 Aspiring Software Engineer | 🧠 Curious Learner | 🌐 Web Developer
@@ -46,4 +44,12 @@ Welcome to my GitHub profile! I'm passionate about building real-world projects,
 
 ## 🔥 GitHub Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=code-skg)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=code-skg&theme=tokyonight)](https://git.io/streak-stats)
+
+
+## 📫 Let's Connect !
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satyam785/)
+
+[![gmail](https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=sattuamar123@gmail.com)
