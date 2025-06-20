@@ -4,7 +4,7 @@
 🚀 Aspiring Software Engineer | 💻 Full-Stack Developer in Progress | 🧠 Tech Explorer
 
 Welcome to my GitHub space! I'm an engineering student at NIT Bhopal, passionate about solving real-world problems with code, building meaningful projects, and contributing to the open-source world.
-I believe in continuous learning, creative thinking, and community-driven development.
+>I believe in continuous learning, creative thinking, and community-driven development.
 
 ---
 
@@ -46,13 +46,13 @@ I believe in continuous learning, creative thinking, and community-driven develo
 
 [![Satyam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=code-skg&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=code-skg&layout=compact) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=code-skg&layout=compact&theme=radical&hide_border=true&card_width=350)](https://github.com/anuraghazra/github-readme-stats) 
 
 ---
 
 ## 🔥 GitHub Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=code-skg&theme=highcontrast&background=0D1117&border=30363D)](https://github.com/DenverCoder1/github-readme-streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com/?user=code-skg&theme=highcontrast&background=0D1117&border=30363D)
 
 ## 🏆 Achievements & Goals
 
