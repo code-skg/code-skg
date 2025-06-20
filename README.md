@@ -1,16 +1,49 @@
-## Hi there 👋
+<!-- Profile README Template -->
 
-<!--
-**code-skg/code-skg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Satyam!
 
-Here are some ideas to get you started:
+🚀 Aspiring Software Engineer | 🧠 Curious Learner | 🌐 Web Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Welcome to my GitHub profile! I'm passionate about building real-world projects, learning new technologies, and contributing to open-source communities.
+
+---
+
+## 🔍 About Me
+
+- 🧠 **Curious Mind**: I love exploring new tools and frameworks.
+- 🌍 **Web Enthusiast**: Dedicated to learning full-stack development.
+- ⚡ **Hackathon Spirit**: I enjoy solving real-world problems through code.
+- 📚 **Lifelong Learner**: Always upskilling and diving deeper into CS concepts.
+
+---
+
+## 🛠️ Tech Stack & Skills
+
+**Languages**: JavaScript, C++, Python, SQL  
+**Frontend**: HTML, CSS, Tailwind CSS, React.js  
+**Backend**: Node.js, Express.js  
+**Databases**: MongoDB, PostgreSQL, MySQL  
+**Tools**: Git, GitHub, VS Code, Netlify, Docker
+
+---
+
+## 🔭 Current Focus
+
+- Building full-stack applications with **React & Node.js**
+- Mastering **Data Structures and Algorithms**
+- Participating in **LeetCode contests**
+- Learning **System Design and DBMS**
+
+---
+
+## 📊 GitHub Stats
+
+<!-- Replace your_username with your GitHub username -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your_username&layout=compact&theme=tokyonight)
+
+---
+
+## 🔥 GitHub Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=your_username&theme=tokyonight)](https://git.io/streak-stats)
