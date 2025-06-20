@@ -46,4 +46,4 @@ Welcome to my GitHub profile! I'm passionate about building real-world projects,
 
 ## 🔥 GitHub Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=code-skg&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=code-skg)](https://git.io/streak-stats)
